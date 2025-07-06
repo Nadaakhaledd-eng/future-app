@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417673863804",
+    "project_id": "future-app2",
+    "storage_bucket": "future-app2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417673863804:android:b16a3b1c9e6c7dd49b9ff9",
+        "android_client_info": {
+          "package_name": "at.nada.Future_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV-mtZx-2Y8mmxppcpaXkbEcXEMVGY6cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
